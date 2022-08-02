@@ -1,0 +1,1 @@
+export const number: string = "+380977777777";
